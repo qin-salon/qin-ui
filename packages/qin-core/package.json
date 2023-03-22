@@ -16,7 +16,7 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "devDependencies": {
-    "@qin/tsconfig": "workspace:*",
+    "tsconfig": "workspace:*",
     "eslint": "^7.32.0",
     "eslint-config-qin": "workspace:*",
     "@types/react": "^17.0.13",
